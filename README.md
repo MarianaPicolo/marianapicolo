@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋 I'm Mariana
 
-<!--
-**MarianaPicolo/marianapicolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Sofware Engineer and Front-end Developer
 
-Here are some ideas to get you started:
+- :computer: I currently work at [Stone Co.](https://www.stone.com.br/) :green_heart:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning about **front-end performance optimization**
+
+- :star2: Fun fact: I love The Renaissance Art
+
+</br>
+
+### Statistics
+ 
+ <p align="left"> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=marianapicolo&count_private=true&hide=stars" width="450" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapicolo&langs_count=5"  /> -->
+
+ </p>
+ 
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=marianapicolo&style=flat-square&label=Visitors" />
+</p>
