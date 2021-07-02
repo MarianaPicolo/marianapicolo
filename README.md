@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mariana
+# Hello world, I'm Mariana
 
 ## I'm a Software Engineer and Front-end Developer
 
