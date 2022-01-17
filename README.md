@@ -4,9 +4,9 @@
 
 - 🎓 I'm a Software Engineer graduated from University of Brasilia;
 
-- :computer: I currently work at [Stone Co.](https://www.stone.com.br/) :green_heart:
+- :computer: I currently work at [Coinbase](https://www.coinbase.com/) :blue_heart:
 
-- 🌱 I’m currently learning about **front-end performance optimization**, **[The Rust Programming Language](https://doc.rust-lang.org/stable/book/)** and **Vim**;
+- 🌱 I’m currently learning about **[The Rust Programming Language](https://doc.rust-lang.org/stable/book/)** and **Vim**;
 
 - :star2: Fun fact: I love The Renaissance Art;
 
