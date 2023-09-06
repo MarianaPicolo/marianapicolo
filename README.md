@@ -4,16 +4,15 @@
 
 - 🎓 I'm a Software Engineer graduated from University of Brasilia;
 
-- :computer: I currently work at [Coinbase](https://www.coinbase.com/) :blue_heart:
+- :computer: I currently work at [Swan Bitcoin](https://www.swanbitcoin.com/);
 
-- 🌱 I’m currently learning about **[The Rust Programming Language](https://doc.rust-lang.org/stable/book/)** and **Vim**;
-
-- :star2: Fun fact: I love The Renaissance Art;
+- 🌱 I’m currently learning about **[The Rust Programming Language](https://doc.rust-lang.org/stable/book/)** and **[The Lightning Network](https://lightning.network/)**;
 
 </br>
 
+- I was a guest of the 154th episode of the [Views on Vue](https://devchat.tv/views-on-vue/) podcast, called [_'A Tale of Refactoring'_](https://devchat.tv/views-on-vue/a-tale-of-refactoring-with-mariana-picolo-vue-154/), and
 - I have worked in GNOME, as a 2020's GSoC student, on the [GNOME Shell Notification Popover Redesign Project](https://summerofcode.withgoogle.com/archive/2020/projects/6490917038456832/).
-- I was a guest of the 154th episode of the [Views on Vue](https://devchat.tv/views-on-vue/) podcast, called [_'A Tale of Refactoring'_](https://devchat.tv/views-on-vue/a-tale-of-refactoring-with-mariana-picolo-vue-154/).
+
 
 </br>
 
