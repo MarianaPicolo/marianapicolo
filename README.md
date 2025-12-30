@@ -4,7 +4,7 @@
 
 - 🎓 I'm a Software Engineer graduated from University of Brasilia;
 
-- :computer: I currently work at [Swan Bitcoin](https://www.swanbitcoin.com/);
+- :computer: I currently work at [Ledn](https://www.ledn.io/);
 
 - 🌱 I’m currently learning about **[The Rust Programming Language](https://doc.rust-lang.org/stable/book/)** and **[The Lightning Network](https://lightning.network/)**;
 
